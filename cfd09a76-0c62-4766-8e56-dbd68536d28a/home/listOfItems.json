@@ -1,0 +1,200 @@
+[
+    {
+        "amountToOrder": 4096000,
+        "amtToKeep": 128000000,
+        "label": "drop of Chlorine",
+        "damage": 0,
+        "name": "ae2fc:fluid_drop",
+        "prettyName": "Chlorine"
+    },
+    {
+        "amountToOrder": 16,
+        "amtToKeep": 512,
+        "label": "Nanoprocessor",
+        "damage": 32082,
+        "name": "gregtech:gt.metaitem.03",
+        "prettyName": "NanoProcessor"
+    },
+    {
+        "amountToOrder": 1024,
+        "amtToKeep": 5000,
+        "label": "Platinum Dust",
+        "damage": 2085,
+        "name": "gregtech:gt.metaitem.01"
+    },
+    {
+        "amountToOrder": 16,
+        "amtToKeep": 512,
+        "label": "Quantumprocessor",
+        "damage": 32085,
+        "name": "gregtech:gt.metaitem.03"
+    },
+    {
+        "amountToOrder": 64,
+        "amtToKeep": 1024,
+        "label": "Microprocessor",
+        "damage": 32078,
+        "name": "gregtech:gt.metaitem.03"
+    },
+    {
+        "amountToOrder": 64,
+        "amtToKeep": 4096,
+        "label": "NAND Chip",
+        "damage": 32075,
+        "name": "gregtech:gt.metaitem.03"
+    },
+    {
+        "amountToOrder": 64,
+        "amtToKeep": 1024,
+        "label": "Plastic Circuit Board",
+        "damage": 32106,
+        "name": "gregtech:gt.metaitem.03"
+    },
+    {
+        "amountToOrder": 64,
+        "amtToKeep": 1024,
+        "label": "Advanced Circuit Board",
+        "damage": 32102,
+        "name": "gregtech:gt.metaitem.03"
+    },
+    {
+        "amountToOrder": 64,
+        "amtToKeep": 1024,
+        "label": "More Advanced Circuit Board",
+        "damage": 32103,
+        "name": "gregtech:gt.metaitem.03"
+    },
+    {
+        "amountToOrder": 64,
+        "amtToKeep": 4096,
+        "label": "Tungstensteel Ingot",
+        "damage": 11316,
+        "name": "gregtech:gt.metaitem.01"
+    },
+    {
+        "amountToOrder": 1024,
+        "amtToKeep": 10000,
+        "label": "Stainless Steel Ingot",
+        "damage": 11306,
+        "name": "gregtech:gt.metaitem.01"
+    },
+    {
+        "amountToOrder": 1000,
+        "amtToKeep": 16000,
+        "label": "Steel Ingot",
+        "damage": 11305,
+        "name": "gregtech:gt.metaitem.01"
+    },
+    {
+        "amountToOrder": 500,
+        "amtToKeep": 6000,
+        "label": "Aluminium Ingot",
+        "damage": 11019,
+        "name": "gregtech:gt.metaitem.01"
+    },
+    {
+        "amountToOrder": 128,
+        "amtToKeep": 1024,
+        "label": "Energetic Alloy Ingot",
+        "damage": 11366,
+        "name": "gregtech:gt.metaitem.01"
+    },
+    {
+        "amountToOrder": 512,
+        "amtToKeep": 4096,
+        "label": "Silicon Solar Grade (Poly SI) Ingot",
+        "damage": 11856,
+        "name": "gregtech:gt.metaitem.01"
+    },
+    {
+        "amountToOrder": 512,
+        "amtToKeep": 8192,
+        "label": "Titanium Ingot",
+        "damage": 11028,
+        "name": "gregtech:gt.metaitem.01"
+    },
+    {
+        "amountToOrder": 128,
+        "amtToKeep": 1024,
+        "label": "Integrated Processor",
+        "damage": 32080,
+        "name": "gregtech:gt.metaitem.03"
+    },
+    {
+        "amountToOrder": 512000,
+        "amtToKeep": 1024000,
+        "label": "drop of Molten Potassium Disulfate",
+        "damage": 0,
+        "name": "ae2fc:fluid_drop"
+    },
+    {
+        "amountToOrder": 512,
+        "amtToKeep": 1024,
+        "label": "Nitric Acid Cell",
+        "damage": 30653,
+        "name": "gregtech:gt.metaitem.01"
+    },
+    {
+        "amountToOrder": 512,
+        "amtToKeep": 4096,
+        "label": "Black Steel Ingot",
+        "damage": 11334,
+        "name": "gregtech:gt.metaitem.01"
+    },
+    {
+        "amountToOrder": 128,
+        "amtToKeep": 1024,
+        "label": "Vibrant Alloy Ingot",
+        "damage": 11367,
+        "name": "gregtech:gt.metaitem.01"
+    },
+    {
+        "amountToOrder": 128,
+        "amtToKeep": 512,
+        "label": "Engineering Processor",
+        "damage": 24,
+        "name": "appliedenergistics2:item.ItemMultiMaterial"
+    },
+    {
+        "amountToOrder": 256,
+        "amtToKeep": 2048,
+        "label": "Logic Processor",
+        "damage": 22,
+        "name": "appliedenergistics2:item.ItemMultiMaterial"
+    },
+    {
+        "amountToOrder": 128,
+        "amtToKeep": 512,
+        "label": "Calculation Processor",
+        "damage": 23,
+        "name": "appliedenergistics2:item.ItemMultiMaterial"
+    },
+    {
+        "amountToOrder": 1024,
+        "amtToKeep": 32000,
+        "label": "Compost",
+        "damage": 8,
+        "name": "miscutils:item.BasicAgrichemItem"
+    },
+    {
+        "amountToOrder": 256,
+        "amtToKeep": 2048,
+        "label": "Tungsten Ingot",
+        "damage": 11081,
+        "name": "gregtech:gt.metaitem.01"
+    },
+    {
+        "amountToOrder": 128,
+        "amtToKeep": 1024,
+        "label": "Naquadah doped Wafer",
+        "damage": 32035,
+        "name": "gregtech:gt.metaitem.03"
+    },
+    {
+        "amountToOrder": 64,
+        "amtToKeep": 256,
+        "label": "Phosphorus doped Wafer",
+        "damage": 32034,
+        "name": "gregtech:gt.metaitem.03"
+    }
+]

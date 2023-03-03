@@ -6,18 +6,18 @@ local event = require('event')
 local rs = comp.redstone
 local buffer = comp.gt_batterybuffer
 local next_rs = 0
-local number_of_bats = 16
+local number_of_bats = 8
 local side = sides.front
 
-function toggleRedstone(on) 
+local function toggleRedstone(on) 
     if on then
         next_rs = rs.setOutput(side, 15)
-    else 
+    else
         next_rs = rs.setOutput(side, 0)
     end
 end
 
-function getTotalPower()
+local function getTotalPower()
     local totalPower = 0
     for i = 1, number_of_bats do
         totalPower = totalPower + buffer.getMaxBatteryCharge(i)
@@ -25,7 +25,7 @@ function getTotalPower()
     return totalPower
 end
 
-function getCurrentPower()
+local function getCurrentPower()
     local totalPower = 0
     for i = 1, number_of_bats do
         totalPower = totalPower + buffer.getBatteryCharge(i)

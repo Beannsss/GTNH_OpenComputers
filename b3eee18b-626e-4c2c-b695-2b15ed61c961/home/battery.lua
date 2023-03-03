@@ -34,4 +34,5 @@ repeat
     elseif bat1 / max < .25 then
         toggleRedstone(true)
     end
+    os.sleep(10)
 until event.pull(1) == "interrupted" -- # change 1 to something smaller to refresh faster
